@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Python assignment project that we have learned in the [insert section/course name]. The project is designed to [briefly describe the purpose and goals of the project].
+This repository contains the Python assignment project that we have learned in the [Programming-2]. The project is designed to [attach what we have learned in oop].
 
 ## Table of Contents
 
