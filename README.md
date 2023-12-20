@@ -2,7 +2,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [About](#usage)
+- [About](#about)
 
 ## Overview
 
